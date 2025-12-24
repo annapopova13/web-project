@@ -278,7 +278,7 @@ img {
     min-height: auto;
     margin-left: auto;
     margin-right: auto;
-    background-image: linear-gradient(rgba(40, 36, 42, 0.4), rgba(45, 39, 46, 0.4)), url(/images/hero.jpg);
+    background-image: linear-gradient(rgba(40, 36, 42, 0.4), rgba(45, 39, 46, 0.4)), url(../images/hero.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size:cover;
@@ -465,17 +465,17 @@ height: 350px;
         background-size: cover;
 }
 .benefit1{
-background-image: url(/images/benefit1.jpg);
+background-image: url(../images/benefit1.jpg);
 }
 
 .benefit2 {
-    background-image: url(/images/benefit2.jpg);
+    background-image: url(../images/benefit2.jpg);
 }
 .benefit3 {
-    background-image: url(/images/benefit3.jpg);
+    background-image: url(../images/benefit3.jpg);
 }
 .benefit4 {
-    background-image: url(/images/benefit4.jpg);
+    background-image: url(../images/benefit4.jpg);
 }
 
 
