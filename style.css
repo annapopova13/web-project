@@ -449,11 +449,11 @@ height: 350px;
         background-size: cover;
 }
 .benefit1{
-background-image: url(images/benefit1.jpg);
+background-image: url(./images/benefit1.jpg);
 }
 
 .benefit2 {
-    background-image: url(images/benefit2.jpg);
+    background-image: url(./images/benefit2.jpg);
 }
 .benefit3 {
     background-image: url(./images/benefit3.jpg);
